@@ -78,7 +78,7 @@ Copy the unified solution package, onboarding script and migration script to the
 10. The detection method will be based on the registry key shown below.
       `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Sense`
 
-      Check the option: **This registry setting must exit on the target system to indicate presence of this application.**
+      Check the option: **This registry setting must exist on the target system to indicate presence of this application.**
 
       :::image type="content" source="images/detection-wizard.png" alt-text="Screenshot that shows detection type wizard":::
 
